@@ -1,7 +1,14 @@
 <resources>
-    <string name="app_name">a11ywatch</string>
+    <string name="app_name">A11yWatch</string>
     <string name="email">Email</string>
     <string name="password">Password</string>
     <string name="login">Login</string>
     <string name="register">Register</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="tab_text_1">Websites</string>
+    <string name="tab_text_2">Scripts</string>
+    <string name="tab_text_3">CDN</string>
+    <string name="tab_text_4">Issues</string>
+    <string name="tab_text_5">Urgent</string>
+    <string name="tab_text_6">History</string>
 </resources>
